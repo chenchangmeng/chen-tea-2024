@@ -1,0 +1,23 @@
+{
+  "name": "chen-tea-2024",
+  "version": "1.0.0",
+  "description": "chen tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenchangmeng/chen-tea-2024"
+  },
+  "keywords": [
+    "chen",
+    "tea"
+  ],
+  "author": "chenyanju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenchangmeng/chen-tea-2024/issues"
+  },
+  "homepage": "https://github.com/chenchangmeng/chen-tea-2024#readme"
+}
